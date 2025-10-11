@@ -1,0 +1,39 @@
+=== LIBRARY OPERATIONS REPORT ===
+
+Processing daily commands...
+
+Command: add Animal Farm by George Orwell
+Result: Added successfully
+
+Command: checkout 978-0-7432-7356-5
+Result: The Great Gatsby checked out successfully
+
+Command: search orwell
+Result: Found 2 book(s):
+- 1984 by George Orwell (Checked Out)
+- Animal Farm by George Orwell (Available)
+
+Command: return 978-0-452-28423-4
+Result: 1984 returned successfully
+
+Command: remove 978-0-452-28424-1
+Result: Animal Farm removed successfully
+
+Command: search gatsby
+Result: Found 1 book(s):
+- The Great Gatsby by F. Scott Fitzgerald (Checked Out)
+
+Command: invalid_command some data
+Result: ERROR - Unknown command
+
+Command: checkout 978-9999-9999-9
+Result: ERROR - Book not found
+
+=== FINAL INVENTORY ===
+978-0-7432-7356-5,The Great Gatsby,F. Scott Fitzgerald,checked_out
+978-0-452-28423-4,1984,George Orwell,available
+978-0-061-12008-9,To Kill a Mockingbird,Harper Lee,available
+
+Operations completed: 8
+Successful operations: 6
+Errors encountered: 2

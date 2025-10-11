@@ -1,0 +1,33 @@
+=== LIBRARY USAGE ANALYTICS ===
+
+Most Popular Books:
+1. 1984 by George Orwell (3 checkouts)
+2. The Great Gatsby by F. Scott Fitzgerald (2 checkouts)
+3. To Kill a Mockingbird by Harper Lee (1 checkout)
+
+Most Active Patrons:
+1. John Smith (2 checkouts)
+2. Jane Doe (2 checkouts)
+3. Bob Wilson (1 checkout)
+4. Alice Brown (1 checkout)
+
+Currently Checked Out:
+- 1984 (Bob Wilson since 2024-01-17)
+- To Kill a Mockingbird (Jane Doe since 2024-01-19)
+
+Summary Statistics:
+- Total checkouts processed: 6
+- Unique books: 3
+- Unique patrons: 4
+- Average checkouts per patron: 1.5
+- Books currently checked out: 2
+- Return rate: 66.7%
+
+Alerts:
+- High demand book: 1984 (3 checkouts - consider additional copies)
+- Active patrons: John Smith, Jane Doe (multiple checkouts)
+
+Your program should handle:
+- Malformed lines in input files (skip with error message)
+- Empty files
+- Missing files (graceful error handling)

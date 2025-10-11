@@ -1,0 +1,6 @@
+2024-01-15,978-0-452-28423-4,John Smith,returned,1984,George Orwell
+2024-01-16,978-0-7432-7356-5,Jane Doe,returned,The Great Gatsby,F. Scott Fitzgerald
+2024-01-17,978-0-452-28423-4,Bob Wilson,active,1984,George Orwell
+2024-01-18,978-0-7432-7356-5,John Smith,returned,The Great Gatsby,F. Scott Fitzgerald
+2024-01-19,978-0-061-12008-9,Jane Doe,active,To Kill a Mockingbird,Harper Lee
+2024-01-20,978-0-452-28423-4,Alice Brown,returned,1984,George Orwell

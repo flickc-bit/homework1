@@ -1,0 +1,8 @@
+add,Animal Farm,George Orwell,978-0-452-28424-1
+checkout,978-0-7432-7356-5
+search,orwell
+return,978-0-452-28423-4
+remove,978-0-452-28424-1
+search,gatsby
+invalid_command,some,data
+checkout,978-9999-9999-9

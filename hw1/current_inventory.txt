@@ -1,0 +1,3 @@
+978-0-7432-7356-5,The Great Gatsby,F. Scott Fitzgerald,available
+978-0-452-28423-4,1984,George Orwell,checked_out
+978-0-061-12008-9,To Kill a Mockingbird,Harper Lee,available
